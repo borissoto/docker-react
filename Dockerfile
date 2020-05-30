@@ -1,4 +1,4 @@
-#FOR PRODUCTION
+#FOR PRODUCTION ;)
 FROM node:alpine
 WORKDIR '/app'
 COPY package*.json ./
